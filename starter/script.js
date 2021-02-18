@@ -389,6 +389,7 @@
 //     console.log(i/2);
 // }
 
+const funcname=() = >
 
 
 
